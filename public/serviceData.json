@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "serviceName": "Web Developement",
+    "serviceImage": "https://www.pngkit.com/png/detail/154-1545805_portfolio-icons-code-web-development-logo.png",
+    "serviceShortDesc": "Our team knows how to cater our clients with the best industry solutions to meet their needs. Building customized Web Applications allows our clients to monitor their business from anywhere.",
+    "serviceLongDesc": "Companies require web applications for their business to run smoothly and users can access these applications from anywhere. PixelPii ensures its clients provide a clear code, fast performance-based web application that is eye-catching and experience driven which makes the business profitable.",
+    "specialistName": "Mr. Satya Prakash Nayak, Developer"
+    
+  },
+  {
+    "id": "2",
+    "serviceName": "Performance Marketing",
+    "serviceImage": "https://i.pinimg.com/originals/ef/ef/a1/efefa186c1e17296bf6cf87ef89b1278.jpg",
+    "serviceShortDesc": "PixelPii is a leading Digital Marketing Agency in India. We have provided Digital Marketing Services for more than 10 years. We are doing Online marketing campaigns for our clients. We are dedicated to helping our clients achieve their goals by providing them with a comprehensive range of services.",
+    "serviceLongDesc": "We help businesses leverage the power of online marketing to grow their business. We offer comprehensive digital marketing services including SEO, Social Media Marketing, BLOGGING, SMO and more. As a one-stop digital agency, we are able to provide our clients with strategic guidance through all stages of the marketing process. We can help you create a plan that will increase your brand visibility and drive traffic to your website or landing page. Our team of experts has been working in the digital marketing space for more than 15 years. We understand what it takes to generate leads, turn those leads into sales and keep them coming back for more!",
+    "specialistName": "Mr. Rakesh Agarwalla, Co-founder"
+    
+  },
+  {
+    "id": "3",
+    "serviceName": "Marketing Analytics",
+    "serviceImage": "https://images.squarespace-cdn.com/content/v1/54eaa591e4b0ed744415c308/1431384602083-UJ9G5AOWGU8ZX837RB4Q/image-asset.png",
+    "serviceShortDesc": "Self-esteem training helps you to control your critics whilst simultaneously developing an affectionate relationship with yourself.",
+    "serviceLongDesc": "Low self-esteem can have a very negative influence on your ability to function in both private and professional settings – be it, for example, in relation to entering into unfulfilling, energy-draining relationships or forever struggling with self-critical, derogatory thoughts in challenging situations. The good news is that self-esteem can be trained, just as, for example, an instrument can be practised till the ability to play it is improved – if you practise diligently. Psychological counselling by an experienced psychologist is a good option for training your own self-esteem.",
+    "specialistName": "Mr. Vikash Agarwalla, CEO & Founder"
+    
+  },
+  {
+    "id": "4",
+    "serviceName": "SEO Services",
+    "serviceImage": "https://i.pinimg.com/originals/74/10/34/741034705c6cd14f90fa683fe0b52f8d.png",
+    "serviceShortDesc": "To have a website that is appreciated by both search engines and your customers, you must design, plan and execute your SEO.",
+    "serviceLongDesc": "SEO services sure rely on scientific terms like “keyword density”, metadata, and “H1 tags”, however great SEO also demands “creativity”. Thorough planning and a dash of creativity go into superb SEO. Our SEO professionals are always adapting to new trends and patterns, ensuring that we are never left behind when things change! Generate more quality traffic with our Search Engine Optimization services that improve conversion rates and rank on SERPS.",
+    "specialistName": "Mr. Abhishek Padhee, SEO"
+    
+  },
+  {
+    "id": "5",
+    "serviceName": "Technical Consultations",
+    "serviceImage": "https://www.onlinelogomaker.com/blog/wp-content/uploads/2017/09/consulting-logo.jpg",
+    "serviceShortDesc": "Technology is one of the key components for accelerating growth, automating and streamlining business processes.",
+    "serviceLongDesc": "Technology is one of the key components for accelerating growth, automating and streamlining business processes. At PixelPii, we offer tailor-made solutions such as Custom Software Development, infrastructure development, Digital Marketing services and many more to meet your business needs. Our Dedicated Team helps you in understanding the current challenges and the best suited solutions.",
+    "specialistName": "Mr. Ashish Samantaray, HR executive"
+    
+  },
+  {
+    "id": "6",
+    "serviceName": "Experience Design",
+    "serviceImage": "https://www.nicepng.com/png/detail/177-1771592_attractive-logo-design-creative.png",
+    "serviceShortDesc": "Hook your users. Serve them what they need. And make their experience of navigating your brand seamless.",
+    "serviceLongDesc": "Your marketing channels only work if you give users what they need, packaged in design that puts them at ease, and make them happy about having interacted with your digital assets. We turn prospects into fans, interactions into leads, leads into customers--and customers into evangelists. A team that helps you educate, please, and make your customers fall in love with you. You’ll know, when we’ll show.",
+    "specialistName": "Mr. Soumya Ranjan Prusty, Graphics Designer"
+    
+  }
+]

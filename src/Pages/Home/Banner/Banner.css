@@ -1,0 +1,40 @@
+/* Main Banner Style */
+.banner {
+  background-image: url("../../../assets/bg-img.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 80vh;
+  z-index: -10;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-content {
+  text-align: center;
+}
+
+.hero-content > h1 {
+  font-size: 3rem;
+  color: #fefefe;
+  line-height: 0;
+  z-index: 10;
+}
+
+.hero-content > p {
+  font-size: 1.5rem;
+  color: #cccbcb;
+}
+
+/* Media Queries for mobile devices only */
+@media only screen and (min-width: 300px) and (max-width: 668px) {
+  .hero-content > h1 {
+    font-size: 2rem;
+    line-height: 1.5;
+  }
+  .hero-content > p {
+    font-size: 1rem;
+    padding: 0 10px;
+  }
+}
