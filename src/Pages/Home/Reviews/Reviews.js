@@ -14,7 +14,7 @@ const Reviews = () => {
       {/* Customer Reviews */}
       <div className="user-review">
         <figure>
-          <img src={customer1} alt="Susana Kenny" />
+          <img src={customer1} alt="Saswati Mishra" />
           <figcaption>
             <h3>Saswati</h3>
             <p>
@@ -23,7 +23,7 @@ const Reviews = () => {
           </figcaption>
         </figure>
         <figure>
-          <img src={customer2} alt="John Bowlby" />
+          <img src={customer2} alt="Javed Ali" />
           <figcaption>
             <h3>Javed</h3>
             <p>
