@@ -18,8 +18,6 @@ const Importance = () => {
         
           We capture value across boundaries and between the silos of any organization.
           We have proven a multiplier effect from optimizing the sum of the parts, not just the individual pieces.
-          
-          We believe in growing together along with our client's for a long range success to create and buid a strong bond relationship of our client with PixelPii.
         </p>
       </div>
     </div>
