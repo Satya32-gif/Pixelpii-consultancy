@@ -13,19 +13,19 @@ const SelfTest = () => {
       <div className="test-selection">
         <select name="tests">
           <option value="developer">
-            Apply as a Web Developer at PixelPii
+            Apply as a Web Developer at PixelPii Labs
           </option>
           <option value="seo">
-            Apply as a SEO developer at PixelPii
+            Apply as a SEO developer at PixelPii Labs 
           </option>
           <option value="content-writer">
-            Apply as a backend developer at PixelPii
+            Apply as a backend developer at PixelPii Labs
           </option>
           <option value="designer">
-            Apply as a Graphics Designer at PixelPii
+            Apply as a Graphics Designer at PixelPii Labs 
           </option>
           <option value="marketing">
-            Apply as a Marketing Executive at PixelPii
+            Apply as a Marketing Executive at PixelPii Labs
           </option>
         </select>
         <button className="btn btn-header">Apply Now</button>
