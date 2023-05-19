@@ -72,6 +72,7 @@ const Footer = () => {
         </section>
         <section className="terms-condition">
           <span>Privacy Policy</span>
+          <span>FAQs</span>
           <span>Terms of Use</span>
           <span>Support</span>
         </section>
