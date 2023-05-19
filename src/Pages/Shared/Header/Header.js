@@ -20,7 +20,7 @@ const Header = () => {
       <nav>
         <div className="nav-brand">
           <NavLink to="/">
-            <span className="hl-text">PixelPii </span>Consultancy
+            <span className="hl-text"> PixelPii </span> Consultancy
           </NavLink>
         </div>
         <div className="nav-links">
