@@ -18,6 +18,7 @@ const Importance = () => {
         
           We capture value across boundaries and between the silos of any organization.
           We have proven a multiplier effect from optimizing the sum of the parts, not just the individual pieces.
+ 
         </p>
       </div>
     </div>
