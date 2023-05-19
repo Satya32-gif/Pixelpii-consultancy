@@ -10,7 +10,7 @@ const Banner = () => {
     <div className="banner">
       <section className="hero-content">
         <h1>PixelPii Labs</h1>
-        <p>We help connect you with our top consultants</p>
+        <p>We Help Connect You With Our Top Consultants</p>
       </section>
     </div>
   );
