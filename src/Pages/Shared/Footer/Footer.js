@@ -34,6 +34,9 @@ const Footer = () => {
                 <a href="/">{twitterIcon}</a>
               </li>
               <li>
+                <a href="/">{facebookIcon}</a>
+              </li>
+              <li>
                 <a href="/">{instagramIcon}</a>
               </li>
             </ul>
