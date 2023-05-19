@@ -19,7 +19,7 @@ const SelfTest = () => {
             Apply as a SEO developer at PixelPii
           </option>
           <option value="content-writer">
-            Apply as a Content writer at PixelPii
+            Apply as a backend developer at PixelPii
           </option>
           <option value="designer">
             Apply as a Graphics Designer at PixelPii
