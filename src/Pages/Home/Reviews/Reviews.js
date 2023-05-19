@@ -18,7 +18,7 @@ const Reviews = () => {
           <figcaption>
             <h3>Saswati</h3>
             <p>
-              Your cusomer reviews will be displayed here.
+              PixelPii Labs is the perfect solution we find for the consultancy and the developement for our startup and I reccomend you to try it out.
             </p>
           </figcaption>
         </figure>
@@ -27,7 +27,7 @@ const Reviews = () => {
           <figcaption>
             <h3>Javed</h3>
             <p>
-              Reviews goes here.
+              PixelPii Labs helped me a lot to reach out our servers on top most in the search engines and improved the quality with excellency in time.
             </p>
           </figcaption>
         </figure>
@@ -36,7 +36,7 @@ const Reviews = () => {
           <figcaption>
             <h3>Billy</h3>
             <p>
-              Review goes here.
+              PixellPii helped a lot in developement and reviewing in the analytcs using the latest advanced marketing analytics and branding the business with latest technology.
             </p>
           </figcaption>
         </figure>
